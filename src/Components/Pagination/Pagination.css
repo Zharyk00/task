@@ -1,0 +1,17 @@
+.pagination {
+  display: grid;
+  grid-auto-flow: column;
+  justify-content: center;
+}
+.pagination li {
+  display: grid;
+  margin: 10px;
+  list-style: none;
+  padding: 1px 5px;
+  cursor: pointer;
+  border: 1px solid black;
+}
+.pagination li a {
+  text-decoration: none;
+  color: black;
+}/*# sourceMappingURL=Pagination.css.map */

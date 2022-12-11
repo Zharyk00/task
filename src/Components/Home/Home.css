@@ -1,0 +1,21 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 2fr));
+  justify-items: center;
+}
+.container img {
+  display: grid;
+  width: 300px;
+  height: 300px;
+}
+.container p {
+  text-align: center;
+  width: 300px;
+}
+.container a {
+  display: grid;
+  justify-content: center;
+  text-decoration: none;
+  color: #000;
+  padding: 10px;
+}/*# sourceMappingURL=Home.css.map */
